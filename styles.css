@@ -11,6 +11,28 @@ text-align: center;
     border-bottom: solid 2px  black;
 }
 
-.primeirovide (
-    backgroud-color: blue;
-paddin-bottom 
+.primeirovideo {
+    background-color: blue;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center
+}
+
+.chamadatexto {
+    margin-left: 20px;
+    margin-left: 10px;
+    text-align: justify;
+}
+
+h1 
+    font-size: 20px;
+        margin-left: 150px;
+        )
+
+
+p {
+
+    font-size:/ 20px;
+}
+
